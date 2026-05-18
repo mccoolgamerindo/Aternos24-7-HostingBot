@@ -29,6 +29,7 @@
    "chat-messages": {
   "enabled": true,
   "repeat": true,
+  "random": true,
   "repeat-delay": 120,
   "messages": [
     "SAYANG UDAH ONLINE",
