@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "KONTOL",
+    "username": "晃弘",
     "password": "",
     "type": "offline"
   },
@@ -30,7 +30,7 @@
   "enabled": true,
   "repeat": true,
   "random": true,
-  "repeat-delay": 120,
+  "repeat-delay": 50,
   "messages": [
     "SAYANG UDAH ONLINE",
     "AKU KANGEN BANGET",
