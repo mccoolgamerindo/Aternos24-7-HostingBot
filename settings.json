@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "WIBUAKUT",
+    "username": "JOHN",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "NYAWIT NIH ORANG",
-        "HIDUP JOKOWI",
-        "IH WIBU"
+        "SAYANG UDAH JOIN",
+        "YOK BIKIN",
+        "IH SAYANG HEBAT BANGET"
       ]
     },
     "chat-log": true,
