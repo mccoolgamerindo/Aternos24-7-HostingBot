@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Kaori",
+    "username": "Yuki",
     "password": "",
     "type": "offline"
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "chalolo133"
     },
     "anti-afk": {
       "enabled": true,
@@ -30,7 +30,7 @@
   "enabled": true,
   "repeat": true,
   "random": true,
-  "repeat-delay": 50,
+  "repeat-delay": 100,
   "messages": [
     "SAYANG UDAH ONLINE",
     "AKU KANGEN BANGET",
@@ -151,11 +151,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 3000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
