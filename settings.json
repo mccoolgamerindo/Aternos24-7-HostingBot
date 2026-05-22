@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Cantika",
+    "username": "Botnya",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Shiro_Kuma02.aternos.me",
     "port": 23726,
-    "version": "1.21.11",
+    "version": "1.21",
     "try-creative": false
   },
   "position": {
